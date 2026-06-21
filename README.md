@@ -46,13 +46,4 @@ This project presents an interactive Excel dashboard built to analyze Blinkit's 
 ## Project Goal
 To transform raw retail sales data into meaningful business insights through an interactive Excel dashboard, enabling data-driven decision-making and performance monitoring.
 
-## Dashboard Preview
-(Add dashboard screenshots here)
 
-## Skills Demonstrated
-- Data Analysis
-- Dashboard Design
-- Data Visualization
-- Business Intelligence
-- Excel Reporting
-- Retail Sales Analytics
